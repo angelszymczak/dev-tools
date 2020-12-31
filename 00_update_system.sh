@@ -2,5 +2,5 @@
 
 # Updating system
 sudo su
-apt update
+aot update
 apt upgrade
